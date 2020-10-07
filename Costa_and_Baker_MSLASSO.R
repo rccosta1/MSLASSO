@@ -4,7 +4,7 @@
 # Synthethic data is provided to test the code. This is NOT the data used for the paper.
 #
 # Directions:
-# 1. Download the synthetic data from: http://web.stanford.edu/~bakerjw/gm_selection.html
+# 1. Download the synthetic data
 # 2. Install all packages required by the MSLASSOAlgorithm function
 # 3. Load the MSLASSOAlgorithm function
 # 4. Run the analysis for B random splits, this will automatically generate three plots
